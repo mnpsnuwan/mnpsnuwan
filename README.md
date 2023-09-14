@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center"><img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/hi_40x40.gif" height="30px" width="30px"> Hello, I'm Nuwan Samarasinghe <img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa100xx/laugh_40x40.gif" height="30px" width="30px"></h1>
+
+- 👨‍💻 All about my details are on my [Personal Portfolio](https://mnpsnuwan.github.io/).
+- 🔭 I’m currently working on [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
+- 🌱 I’m currently learning Data Science 📊📈🧬🧮.
+- 📫 Reach me through the email *mnpsnuwan@gmail.com*.
 
 <!--
 **mnpsnuwan/mnpsnuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
