@@ -1,4 +1,7 @@
-<h1 align="center"><img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/hi_40x40.gif" height="30px" width="30px"> Hello, I'm Nuwan Samarasinghe <img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa100xx/laugh_40x40.gif" height="30px" width="30px"></h1>
+<div align="center" class="heading">
+   <img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/hi_40x40.gif" height="30px" width="30px">
+   <h1> Hello, I'm Nuwan Samarasinghe </h1>
+</div>
 
 - 👨‍💻 All about my details are on my [Personal Portfolio](https://mnpsnuwan.github.io/).
 - 🔭 I’m currently working on [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
