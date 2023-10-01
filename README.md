@@ -1,6 +1,5 @@
 <div align="center" class="heading">
-   <img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/hi_40x40.gif" height="30px" width="30px">
-   <h1> Hello, I'm Nuwan Samarasinghe </h1>
+   <h1>✨ Hello, I'm Nuwan Samarasinghe ✨</h1>
 </div>
 
 - 👨‍💻 All about my details are on my [Personal Portfolio](https://mnpsnuwan.github.io/).
@@ -18,6 +17,10 @@
 <h4 align="left">Buy me a coffee;</h4>
 <p><a href="https://www.buymeacoffee.com/mnpsnuwan"> 
    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="mnpsnuwan" /></a>
+</p>
+<h4 align="left">Support me to continue my startup business <a href="https://imatrixlabs.com">IMATRIXLABS (PVT) LTD</a>.</h4>
+<p> <a href="https://paypal.me/NuwanSamarasinghe?country.x=US&locale.x=en_US"></a>
+   <img align="center" src="https://github.com/aha999/DonateButtons/blob/master/paypal-donate-icon-7.png" height="40" width="160" alt="mnpsnuwan" /></a>
 </p>
 
 <!--
