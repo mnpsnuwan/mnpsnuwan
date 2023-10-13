@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Data Science 📊📈🧬🧮.
 - 📫 Reach me through the email *mnpsnuwan@gmail.com*.
 
+Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
+
 <h4 align="left">Connect with me;</h4>
 <p align="left">
    <a href="https://linkedin.com/in/nuwan-samarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwan-samarasinghe" height="30" width="40" /></a>
@@ -24,6 +26,12 @@
 
 <!--
 **mnpsnuwan/mnpsnuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&hide=TeX&layout=compact)
 
 Here are some ideas to get you started:
 
