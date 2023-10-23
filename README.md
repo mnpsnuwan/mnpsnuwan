@@ -24,12 +24,17 @@ Feel free to check out everything I do  if you find any error or have a suggesti
 <a href="https://paypal.me/NuwanSamarasinghe?country.x=US&locale.x=en_US"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" height="40" width="160" alt="mnpsnuwan" />
 </a>
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&hide=TeX&layout=compact)
+
 <!--
 **mnpsnuwan/mnpsnuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=highcontrast&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&hide=TeX&layout=compact)
 
