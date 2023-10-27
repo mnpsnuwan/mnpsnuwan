@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
 - 🌱 I’m currently learning Data Science 📊📈🧬🧮.
 - 📫 Reach me through the email *mnpsnuwan@gmail.com*.
+- 😄 Pronouns as he/his/him
+- ⚡ Fun facts 🏊🏸🎱🏓♟️🎞️🎵📓⛺🗺️
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
