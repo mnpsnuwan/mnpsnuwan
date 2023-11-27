@@ -1,0 +1,6 @@
+{
+    "current-theme": "light",
+    "templates": {
+        "light": "spotify.html.j2"
+    }
+}
