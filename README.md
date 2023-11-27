@@ -2,6 +2,8 @@
    <h1>✨ Hello, I'm Nuwan Samarasinghe ✨</h1>
 </div>
 
+![](https://komarev.com/ghpvc/?username=mnpsnuwan)
+
 - 👨‍💻 All about my details are on my [Personal Portfolio](https://mnpsnuwan.github.io/).
 - 🔭 I’m currently working on [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
 - 🌱 I’m currently learning Data Science 📊📈🧬🧮.
