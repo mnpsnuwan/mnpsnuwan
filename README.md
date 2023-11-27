@@ -4,8 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=mnpsnuwan)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cambria&color=%23000C66&size=35&height=50&lines=I+lead+dev+teams;I+build+web+applications;I+build+mobile+applications;I+set+up+CI/CD;I+design+scalable+systems;I+develop+enterprise+applications)](https://git.io/typing-svg)
+
 - 👨‍💻 All about my details are on my [Personal Portfolio](https://mnpsnuwan.github.io/).
-- 🔭 I’m currently working on [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
+- 🔭 I’m currently working in [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
 - 🌱 I’m currently learning Data Science 📊📈🧬🧮.
 - 📫 Reach me through the email *mnpsnuwan@gmail.com*.
 - 😄 Pronouns as he/his/him
@@ -13,7 +15,7 @@
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
-<h4 align="left">Connect with me;</h4>
+## Connect with me;
 <p align="left">
    <a href="https://linkedin.com/in/nuwan-samarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwan-samarasinghe" height="30" width="40" /></a>
    <a href="https://twitter.com/NuwanPrabhath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NuwanPrabhath" height="30" width="40" /></a>
@@ -21,7 +23,7 @@ Feel free to check out everything I do  if you find any error or have a suggesti
    <a href="https://facebook.com/MNPSamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MNPSamarasinghe" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Some of Languages and Tools:</h4>
+## Some of Languages and Tools;
 <p align="left"> 
    <a href="https://activemq.apache.org/" target="_blank" rel="noreferrer"> 
    <img src="https://activemq.apache.org/assets/img/activemq_logo_black_small.png" alt="activemq" width="60" height="35"/></a>
@@ -55,18 +57,18 @@ Feel free to check out everything I do  if you find any error or have a suggesti
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a> 
 </p>
 
-<h4 align="left">Buy me a coffee;</h4>
+## Buy me a coffee;
 <p><a href="https://www.buymeacoffee.com/mnpsnuwan"> 
    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="mnpsnuwan" /></a>
 </p>
 
-<h4 align="left">Support me via Paypal;</h4>
+## Support me via Paypal;
 <a href="https://paypal.me/NuwanSamarasinghe?country.x=US&locale.x=en_US"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" height="40" width="160" alt="mnpsnuwan" />
 </a>
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&hide=TeX&layout=compact)
+## Stats;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  />
 
 <!--
 **mnpsnuwan/mnpsnuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,15 +79,4 @@ Feel free to check out everything I do  if you find any error or have a suggesti
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=highcontrast&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&hide=TeX&layout=compact)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
