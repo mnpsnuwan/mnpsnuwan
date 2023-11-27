@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mnpsnuwan)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cambria&color=%23000C66&size=35&height=50&lines=I+lead+dev+teams;I+build+web+applications;I+build+mobile+applications;I+set+up+CI/CD;I+design+scalable+systems;I+develop+enterprise+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cambria&color=%23000C66&size=35&height=50&lines=I+lead+dev+teams;I+build+web+applications;I+build+mobile+applications;I+set+up+CI/CD;I+design+scalable+systems;I+develop+enterprise+applications;)](https://git.io/typing-svg)
 
 - 👨‍💻 All about my details are on my [Personal Portfolio](https://mnpsnuwan.github.io/).
 - 🔭 I’m currently working in [CodeGen International (Pvt) Ltd](https://codegen.co.uk/).
@@ -71,12 +71,7 @@ Feel free to check out everything I do  if you find any error or have a suggesti
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  />
 
 <!--
-**mnpsnuwan/mnpsnuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&count_private=true&show_icons=true&include_all_commits=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=highcontrast&count_private=true&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&hide=TeX&layout=compact)
 -->
