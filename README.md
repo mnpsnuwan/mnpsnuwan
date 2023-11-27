@@ -15,8 +15,8 @@
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
-## 🎧 What's Vibing?
-[![Spotify](https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/banners/spotify.svg)](https://open.spotify.com/user/312x7vcwp7kzwocho3dssgypm5ry)
+[//]: # (## 🎧 What's Vibing?)
+[//]: # ([![Spotify]&#40;https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/banners/spotify.svg&#41;]&#40;https://open.spotify.com/user/312x7vcwp7kzwocho3dssgypm5ry&#41;)
 
 ## Connect with me;
 <p align="left">
