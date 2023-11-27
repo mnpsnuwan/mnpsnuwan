@@ -15,6 +15,9 @@
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
+## 🎧 What's Vibing?
+[![Spotify](https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/banners/spotify.svg)](https://open.spotify.com/user/312x7vcwp7kzwocho3dssgypm5ry)
+
 ## Connect with me;
 <p align="left">
    <a href="https://linkedin.com/in/nuwan-samarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwan-samarasinghe" height="30" width="40" /></a>
@@ -23,7 +26,7 @@ Feel free to check out everything I do  if you find any error or have a suggesti
    <a href="https://facebook.com/MNPSamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MNPSamarasinghe" height="30" width="40" /></a>
 </p>
 
-## Some of Languages and Tools;
+## Some of the Languages and Tools;
 <p align="left"> 
    <a href="https://activemq.apache.org/" target="_blank" rel="noreferrer"> 
    <img src="https://activemq.apache.org/assets/img/activemq_logo_black_small.png" alt="activemq" width="60" height="35"/></a>
