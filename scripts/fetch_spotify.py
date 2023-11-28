@@ -36,7 +36,7 @@ def get_auth():
 
 def refresh_token():
     data = {
-        "grant_type": "client_credentials",
+        "grant_type": "refresh_token",
         "refresh_token": SPOTIFY_REFRESH_TOKEN,
     }
 

@@ -1,0 +1,34 @@
+name: Spotify Now Playing
+on:
+  schedule: # Run workflow automatically
+    - cron: '* * * * *' # Runs every 5 minutes
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest spotify song svg.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - name: requirements.txt
+        run: |
+          pip install -r ./scripts/requirements.txt
+      - name: generate
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          python ./scripts/fetch_spotify.py
+      - name: Commit and push if changed
+        run: |
+          git add .
+          git config --global user.email "mnpsnuwan@gmail.com"
+          git config --global user.name "mnpsnuwan"
+          git commit -m "Updated spotify.svg File"
+          git push origin main
