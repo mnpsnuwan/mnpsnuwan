@@ -1,7 +1,7 @@
 name: Spotify Now Playing
 on:
   schedule: # Run workflow automatically
-    - cron: '* * * * *' # Runs every 5 minutes
+    - cron: '* 2,4,6,8,10,12,14,16,18,20,22 * * *' # Runs every 2 hours
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
