@@ -150,7 +150,7 @@ def catch_all():
     data = now_playing()
     svg = make_svg(data, background_color, border_color)
 
-    with open('../assets/banners/spotify.svg', 'w') as f:
+    with open('https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/banners/spotify.svg', 'w') as f:
         f.write(svg)
 
 
