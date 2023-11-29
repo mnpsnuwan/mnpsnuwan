@@ -5,7 +5,7 @@ import requests
 
 from base64 import b64encode
 from dotenv import load_dotenv, find_dotenv
-from flask import Flask, Response, jsonify, render_template, templating, request
+from flask import Flask, render_template
 
 load_dotenv(find_dotenv())
 
@@ -19,11 +19,9 @@ SPOTIFY_REFRESH_TOKEN = os.getenv("SPOTIFY_REFRESH_TOKEN")
 
 FALLBACK_THEME = "spotify.html.j2"
 
-REFRESH_TOKEN_URL = "https://accounts.spotify.com/api/token"
-NOW_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
-RECENTLY_PLAYING_URL = (
-    "https://api.spotify.com/v1/me/player/recently-played?limit=10"
-)
+REFRESH_TOKEN_URL = os.getenv("REFRESH_TOKEN_URL")
+NOW_PLAYING_URL = os.getenv("NOW_PLAYING_URL")
+RECENTLY_PLAYING_URL = os.getenv("RECENTLY_PLAYING_URL")
 
 app = Flask(__name__)
 
