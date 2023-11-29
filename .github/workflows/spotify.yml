@@ -23,9 +23,9 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          REFRESH_TOKEN_URL: ${{ variables.REFRESH_TOKEN_URL }}
-          NOW_PLAYING_URL: ${{ variables.NOW_PLAYING_URL }}
-          RECENTLY_PLAYING_URL: ${{ variables.RECENTLY_PLAYING_URL }}
+          REFRESH_TOKEN_URL: ${{ secrets.REFRESH_TOKEN_URL }}
+          NOW_PLAYING_URL: ${{ secrets.NOW_PLAYING_URL }}
+          RECENTLY_PLAYING_URL: ${{ secrets.RECENTLY_PLAYING_URL }}
         run: |
           python ./scripts/fetch_spotify.py
       - name: Commit and push if changed
