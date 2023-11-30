@@ -20,6 +20,7 @@ jobs:
           pip install -r ./scripts/requirements.txt
       - name: generate
         env:
+          PLACEHOLDER_IMAGE: ${{ secrets.PLACEHOLDER_IMAGE }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
