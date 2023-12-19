@@ -2,7 +2,7 @@
    <h1>✨ Hello, I'm Nuwan Samarasinghe ✨</h1>
 </div>
 
-<!-- ![](https://komarev.com/ghpvc/?username=mnpsnuwan) -->
+![](https://komarev.com/ghpvc/?username=mnpsnuwan&style=flat-square&color=00ff55)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cambria&color=%23000C66&size=35&height=50&lines=I+lead+dev+teams;I+build+web+applications;I+build+mobile+applications;I+set+up+CI/CD;I+design+scalable+systems;I+develop+enterprise+applications;)](https://git.io/typing-svg)
 
@@ -95,11 +95,6 @@ Feel free to check out everything I do  if you find any error or have a suggesti
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mnpsnuwan&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
-
-<div align="center">
-   [![](https://visitcount.itsvg.in/api?id=mnpsnuwan&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-   <!-- [![](https://visitcount.itsvg.in/api?id=mnpsnuwan&icon=3&color=6)](https://visitcount.itsvg.in)  -->
 </div>
 
 <!--
