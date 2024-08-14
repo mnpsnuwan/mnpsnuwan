@@ -147,8 +147,9 @@ def catch_all():
 
     data = now_playing()
     svg = make_svg(data, background_color, border_color)
+    path = 'assets/banners/spotify.svg'
 
-    with open('spotify.svg', 'w') as f:
+    with open(path, 'w') as f:
         f.write(svg)
 
 
