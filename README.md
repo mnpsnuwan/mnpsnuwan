@@ -97,6 +97,9 @@ Feel free to check out everything I do  if you find any error or have a suggesti
     </a>
 </div>
 
+## Contribution;
+![Snake animation](https://raw.githubusercontent.com/mnpsnuwan/mnpsnuwan/output/github-contribution-grid-snake.svg)
+
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&count_private=true&show_icons=true&include_all_commits=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=highcontrast&count_private=true&show_icons=true)
