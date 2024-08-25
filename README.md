@@ -1,9 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=mnpsnuwan&style=flat-square&color=40c463)
-<div align="center" class="heading">
-   <h1>✨ Hi there 👋, I'm Nuwan Samarasinghe ✨</h1>
-</div>
+--
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=35&pause=1009&color=012D78&background=FFFFFF00&width=600&lines=I+Lead+Dev+Teams..;I+Build+Large+Scale+Applications..;I+Build+Web+Applications..;I+Develop+Enterprise+Applications..;I+Build+Mobile+Applications..;I+Design+Scalable+Systems..;I+Configure+CI%2FCD..)](https://git.io/typing-svg)
+--
+
+# Hi there 👋, I'm Nuwan Samarasinghe ✨
 
 - 🔭 I'm a Lead Full Stack Engineer. I’m currently working on React, Angular, Node.js, Python, Java 8/17/21, Spring 2/3, Docker
 - 🌱 I’m currently learning react,redux,tailwind,mongodb,kafka,kubernetes,docker, and Data Science (py,pytorch,sklearn,tensorflow) 📊📈🧬🧮.
@@ -33,21 +34,21 @@ Feel free to check out everything I do  if you find any error or have a suggesti
 ## ⚙️ Skill;
 These are the skills I either use on the daily or have tried.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mnpsnuwan">
     <img src="https://skillicons.dev/icons?i=java,spring,ts,react,redux,nodejs,express,js,angular,py,django,html,css,bootstrap,materialui,gradle,maven,npm,gulp,docker,git,github,bitbucket,githubactions,mongodb,dynamodb,aws,mysql,postgres,firebase,jenkins,grafana,prometheus,kafka,graphql,figma,postman,unity,unreal,blender,windows,linux,kali,apple,idea,webstorm,pycharm,anaconda,vscode,eclipse,androidstudio,sublime,svg,ps,ai,linkedin,instagram,gmail" />
   </a>
 </p>
 
 ## - 🔭 I’m currently working on;
-<p align="center">
+<p align="left">
   <a href="https://github.com/mnpsnuwan">
     <img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,redux,js,html,css,bootstrap,maven,npm,docker,git,github,mongodb,postgres,firebase,idea,pycharm,figma" />
   </a>
 </p>
 
 ## - 🌱 I’m currently learning;
-<p align="center">
+<p align="left">
   <a href="https://github.com/mnpsnuwan">
     <img src="https://skillicons.dev/icons?i=react,redux,py,pytorch,sklearn,tensorflow,tailwind,mongodb,kafka,kubernetes,docker" />
   </a>
@@ -65,7 +66,7 @@ These are the skills I either use on the daily or have tried.
 ## 💫 Stats;
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
-<table align="center">
+<table align="left">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -84,8 +85,8 @@ These are the skills I either use on the daily or have tried.
 
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="#" title="Go to Source">
+<div align=left>
+  <a href="https://github.com/mnpsnuwan" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mnpsnuwan&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
