@@ -7,7 +7,7 @@
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
 - 🔭 I'm a Lead Full Stack Engineer. I’m currently working on React, Angular, Node.js, Python, Java 8/17/21, Spring 2/3, Docker
-- 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py,pytorch,sklearn,tensorflow) 📊📈🧬🧮.
+- 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py, pytorch, sklearn, tensorflow) 📊📈🧬🧮.
 - 💬 Ask me about Java, Python, Spring, MicroServices, Anugular, React
 - 📫 Reach me through the email *mnpsnuwan@gmail.com*.
 - 👨‍💻 All about my details are available at my [Personal Portfolio](https://mnpsnuwan.github.io/).
