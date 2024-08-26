@@ -67,20 +67,37 @@ These are the skills I either use on the daily or have tried.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
 <table align="left">
+   <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=algolia&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+   </tr>
+   
+</table>
+
+<table align="left">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=algolia&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<td width="50%" align="center"> 
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mnpsnuwan&theme=algolia" height="200em width=455em" />
+      </td>
+      <td width="50%" align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mnpsnuwan&theme=algolia" height="200em" width="455em" />
   </td>
 </tr>
+</table>
+      
+
+<table align="left">
+   <tr border="none">
+      <td width="100%" align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnpsnuwan&theme=algolia" height="200em" width="822.5em" />
+     </td>
+   </tr>
 </table>
 
 
