@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=mnpsnuwan&style=flat-square&color=40c463)
---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=35&pause=1009&color=012D78&background=FFFFFF00&width=600&lines=I+Lead+Dev+Teams..;I+Build+Large+Scale+Applications..;I+Build+Web+Applications..;I+Develop+Enterprise+Applications..;I+Build+Mobile+Applications..;I+Design+Scalable+Systems..;I+Configure+CI%2FCD..)](https://git.io/typing-svg)
---
+![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=000297&width=600&lines=Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;Always+Learning+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Configure+CI%2FCD)](https://git.io/typing-svg)
 
 - 🔭 I'm a Lead Full Stack Engineer. I’m currently working on React, Angular, Node.js, Python, Java 8/17/21, Spring 2/3, Docker
 - 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py, pytorch, sklearn, tensorflow) 📊📈🧬🧮.
