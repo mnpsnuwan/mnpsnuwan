@@ -31,7 +31,7 @@ Feel free to check out everything I do  if you find any error or have a suggesti
 ## 🎧 What's Vibing?
 [![Spotify](https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/banners/spotify.svg)](https://open.spotify.com/user/312x7vcwp7kzwocho3dssgypm5ry)
 
-## ⚙️ Skill;
+## ⚙️ Skills;
 These are the skills I either use on the daily or have tried.
 
 <p align="left">
