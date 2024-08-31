@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=0077B6&width=600&lines=Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;Always+Learning+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Configure+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00ADFD&width=600&height=60&lines=I'm+Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;I+Always+Try+to+Learn+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Build+Cloud+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Design+Brands;I+Create+User+Experience+Designs;I+Implement+REST%2FSOAP+Web+Services;I+Analyze+Data+Using+Data+Science;I+Configure+CI%2FCD)](https://git.io/typing-svg)
 
 - 🔭 I'm a Lead Full Stack Engineer. I’m currently working on React, Angular, Node.js, Python, Java 8/17/21, Spring 2/3, Docker
 - 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py, pytorch, sklearn, tensorflow) 📊📈🧬🧮.
@@ -63,6 +63,9 @@ These are the skills I either use on the daily or have tried.
 <a href="https://paypal.me/NuwanSamarasinghe?country.x=US&locale.x=en_US"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" height="40" width="160" alt="mnpsnuwan" />
 </a>
 
+## 🛂 Contributions;
+![Snake animation](https://raw.githubusercontent.com/mnpsnuwan/mnpsnuwan/output/github-contribution-grid-snake.svg)
+
 ## 💫 Stats;
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
@@ -102,11 +105,10 @@ These are the skills I either use on the daily or have tried.
 
 
 <!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/mnpsnuwan" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mnpsnuwan&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-## 🛂 Contributions;
-![Snake animation](https://raw.githubusercontent.com/mnpsnuwan/mnpsnuwan/output/github-contribution-grid-snake.svg)
+<table align="left">
+   <tr border="none">
+      <td width="100%" align="center">
+         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mnpsnuwan&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" />
+      </td>
+   </tr>
+</table>
