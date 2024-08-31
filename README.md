@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=000297&width=600&lines=Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;Always+Learning+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Configure+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=0077B6&width=600&lines=Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;Always+Learning+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Configure+CI%2FCD)](https://git.io/typing-svg)
 
 - 🔭 I'm a Lead Full Stack Engineer. I’m currently working on React, Angular, Node.js, Python, Java 8/17/21, Spring 2/3, Docker
 - 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py, pytorch, sklearn, tensorflow) 📊📈🧬🧮.
