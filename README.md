@@ -1,6 +1,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mnpsnuwan&data=followers,stars,commits&theme=dark)
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
@@ -80,7 +81,6 @@ These are the skills I either use on the daily or have tried.
         <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
    </tr>
-   
 </table>
 
 <table align="left">
