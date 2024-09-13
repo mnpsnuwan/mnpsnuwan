@@ -1,7 +1,6 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mnpsnuwan&data=followers,stars,commits&theme=dark)
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
