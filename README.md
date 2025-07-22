@@ -1,7 +1,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
-<a href="https://github.com/mnpsnuwan"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<a href="https://github.com/mnpsnuwan"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:30FF00,50:00C0FF,100:FF005A&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
@@ -112,4 +112,4 @@ These are the skills I either use on the daily or have tried.
       </td>
    </tr>
 </table>
-<a href="https://github.com/mnpsnuwan"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&section=footer" /></a>
+<a href="https://github.com/mnpsnuwan"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:30FF00,50:00C0FF,100:FF005A&section=footer" /></a>
