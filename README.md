@@ -5,7 +5,7 @@
 
 # Hi there 👋, I'm Nuwan Samarasinghe ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00ADFD&width=600&height=60&lines=I'm+Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;I+Always+Try+to+Learn+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Build+Cloud+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Design+Brands;I+Create+User+Experience+Designs;I+Implement+REST%2FSOAP+Web+Services;I+Analyze+Data+Using+Data+Science;I+Configure+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00C0FF&width=600&height=60&lines=I'm+Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;I+Always+Try+to+Learn+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Build+Cloud+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Design+Brands;I+Create+User+Experience+Designs;I+Implement+REST%2FSOAP+Web+Services;I+Analyze+Data+Using+Data+Science;I+Configure+CI%2FCD)](https://git.io/typing-svg)
 
 - 🔭 I'm a Lead Full Stack Engineer. I’m currently working on React, Angular, Node.js, Python, Java 8/17/21, Spring 2/3, Docker
 - 🌱 I’m currently learning react, redux, tailwind, mongodb, kafka, kubernetes, docker, and Data Science (py, pytorch, sklearn, tensorflow) 📊📈🧬🧮.
@@ -75,7 +75,7 @@ These are the skills I either use on the daily or have tried.
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mnpsnuwan&theme=algolia&show_icons=true&count_private=true" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia&hide_border=false" /> 
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=mnpsnuwan&theme=algolia" /> 
       </td>
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
