@@ -44,7 +44,7 @@ These are the skills I either use on the daily or have tried.
 ## - 🔭 I’m currently working on;
 <p align="left">
   <a href="https://github.com/mnpsnuwan">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,redux,js,html,css,bootstrap,maven,npm,docker,git,github,mongodb,postgres,firebase,idea,pycharm,figma" />
+    <img src="https://skillicons.dev/icons?i=aws,java,spring,py,ts,nodejs,angular,react,redux,js,html,css,bootstrap,maven,npm,docker,git,github,mongodb,postgres,firebase,idea,pycharm,figma" />
   </a>
 </p>
 
