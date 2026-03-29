@@ -1,24 +1,28 @@
 name: Spotify Now Playing
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 */3 * * *' # Runs every 3 hours
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 */3 * * *'   # Runs every 3 hours
+  workflow_dispatch:          # Run manually via GitHub Actions UI
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest spotify song svg.
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
       - name: Set up Python 3.11
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.11
-      - name: requirements.txt
-        run: |
-          pip install -r ./scripts/requirements.txt
-      - name: generate
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r ./scripts/requirements.txt
+
+      - name: Generate Spotify SVG
         env:
           PLACEHOLDER_IMAGE: ${{ secrets.PLACEHOLDER_IMAGE }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
@@ -27,12 +31,12 @@ jobs:
           REFRESH_TOKEN_URL: ${{ secrets.REFRESH_TOKEN_URL }}
           NOW_PLAYING_URL: ${{ secrets.NOW_PLAYING_URL }}
           RECENTLY_PLAYING_URL: ${{ secrets.RECENTLY_PLAYING_URL }}
-        run: |
-          python ./scripts/fetch_spotify.py
+        run: python ./scripts/fetch_spotify.py
+
       - name: Commit and push if changed
         run: |
           git add .
           git config --global user.email "mnpsnuwan@gmail.com"
           git config --global user.name "mnpsnuwan"
-          git commit -m "IM:CRON:Updated spotify.svg File."
-          git push origin main
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "IM:CRON:Updated spotify.svg File." && git push origin main
