@@ -49,22 +49,28 @@ def refresh_token():
         raise KeyError(str(response.json()))
 
 
-def recently_played():
-    token = refresh_token()
-    headers = {"Authorization": f"Bearer {token}"}
-    response = requests.get(RECENTLY_PLAYING_URL, headers=headers)
-
-    if response.status_code == 204:
-        return {}
-    return response.json()
-
-
 def now_playing():
     token = refresh_token()
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(NOW_PLAYING_URL, headers=headers)
 
-    if response.status_code == 204:
+    if response.status_code == 204 or not response.text.strip():
+        return {}
+    if response.status_code != 200:
+        print(f"now_playing error: {response.status_code} {response.text}")
+        return {}
+    return response.json()
+
+
+def recently_played():
+    token = refresh_token()
+    headers = {"Authorization": f"Bearer {token}"}
+    response = requests.get(RECENTLY_PLAYING_URL, headers=headers)
+
+    if response.status_code == 204 or not response.text.strip():
+        return {}
+    if response.status_code != 200:
+        print(f"recently_played error: {response.status_code} {response.text}")
         return {}
     return response.json()
 
