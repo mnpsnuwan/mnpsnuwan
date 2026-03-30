@@ -109,12 +109,29 @@ def make_svg(data, background_color, border_color):
     content_bar = "".join(["<div class='bar'></div>" for i in range(bar_count)])
     bar_css = bar_gen(bar_count)
 
-    if data == {} or data["item"] == "None" or data["item"] is None:
-        # contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
+    if data == {} or data.get("item") is None:
         current_status = "Was playing:"
         recent_plays = recently_played()
-        recent_plays_length = len(recent_plays["items"])
-        item_index = random.randint(0, recent_plays_length - 1)
+
+        # Guard: if recently_played also failed (e.g. 403), use placeholder
+        if not recent_plays or "items" not in recent_plays or len(recent_plays["items"]) == 0:
+            print("No playback data available. Using placeholder.")
+            data_dict = {
+                "content_bar": content_bar,
+                "bar_css": bar_css,
+                "artist_name": "Unknown Artist",
+                "song_name": "Nothing Playing",
+                "song_uri": "#",
+                "artist_uri": "#",
+                "image": PLACEHOLDER_IMAGE,
+                "status": "Not playing",
+                "background_color": background_color,
+                "border_color": border_color,
+            }
+            with app.app_context():
+                return render_template(get_template(), **data_dict)
+
+        item_index = random.randint(0, len(recent_plays["items"]) - 1)
         item = recent_plays["items"][item_index]["track"]
     else:
         item = data["item"]
@@ -140,7 +157,7 @@ def make_svg(data, background_color, border_color):
         "image": image,
         "status": current_status,
         "background_color": background_color,
-        "border_color": border_color
+        "border_color": border_color,
     }
 
     with app.app_context():
@@ -151,12 +168,16 @@ def catch_all():
     background_color = "181414"
     border_color = "181414"
 
-    data = now_playing()
-    svg = make_svg(data, background_color, border_color)
-    path = 'assets/banners/spotify.svg'
-
-    with open(path, 'w') as f:
-        f.write(svg)
+    try:
+        data = now_playing()
+        svg = make_svg(data, background_color, border_color)
+        path = 'assets/banners/spotify.svg'
+        with open(path, 'w') as f:
+            f.write(svg)
+        print("spotify.svg written successfully.")
+    except Exception as e:
+        print(f"catch_all failed: {e}")
+        # Don't re-raise — let the workflow exit cleanly
 
 
 if __name__ == "__main__":
