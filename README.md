@@ -17,7 +17,7 @@
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
-### - 🌎 Connect with me;
+### 🌎 Connect with me;
 <p align="left">
    <a href="https://linkedin.com/in/nuwan-samarasinghe" target="blank"><img align="center" src="https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/icons/social/linkedin.svg" alt="nuwan-samarasinghe" height="30" width="40" /></a>
    <a href="https://twitter.com/NuwanPrabhath" target="blank"><img align="center" src="https://github.com/mnpsnuwan/mnpsnuwan/blob/main/assets/icons/social/twitter.svg" alt="NuwanPrabhath" height="30" width="40" /></a>
